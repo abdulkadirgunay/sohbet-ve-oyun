@@ -1,10 +1,10 @@
 {
     "bot": {
-        "token": "",
-        "owner": [""],
-        "name": "Sohbet ve Oyun",
+        "token": "NDI2NDQ3NTIyOTgzMDUxMjc0.DfbxSg.Od0C8XY6poI3xT1m00JlJh0iHTI",
+        "owner": ["Abdülkadir GÜNAY"],
+        "name": "Dis Bot",
         "year": "2018",
-        "prefix": "svo!",
+        "prefix": "..",
         "version": "v1.0.1"
     },
     "customEmojis": {
@@ -34,6 +34,6 @@
         }
     },
     "checkerBoat": {
-        "token": ""
+        "token": "NDI2NDQ3NTIyOTgzMDUxMjc0.DfbxSg.Od0C8XY6poI3xT1m00JlJh0iHTI"
     }
 }
